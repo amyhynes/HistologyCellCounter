@@ -15,7 +15,7 @@ lockfile==0.12.2
 lxml==4.6.5
 mypy_extensions==0.4.3
 ordereddict==1.1
-Pillow==8.3.2
+Pillow==9.0.0
 protobuf==3.11.3
 pyOpenSSL==19.1.0
 scikit_learn==0.22.2.post1
