@@ -1,5 +1,5 @@
 cryptography==3.3.2
-joblib==0.14.1
+joblib>=1.2.0
 keyring==21.1.0
 numpy==1.22.0
 scikit_image==0.16.2
