@@ -1,4 +1,4 @@
-cryptography==3.3.2
+cryptography==39.0.1
 joblib>=1.2.0
 keyring==21.1.0
 numpy==1.22.0
