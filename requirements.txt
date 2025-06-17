@@ -16,7 +16,7 @@ lxml==4.9.1
 mypy_extensions==0.4.3
 ordereddict==1.1
 Pillow==10.3.0
-protobuf==3.18.3
+protobuf==4.25.8
 pyOpenSSL==19.1.0
 scikit_learn==0.22.2.post1
 scikit-image==0.16.2
